@@ -1,7 +1,7 @@
 # ArcadeGame
 A 2 Player Arcade Game, Battle to survive and kill the opponent's character.
 Game developed as a college project , using python3 and its game dev packages(pygame).
-Keyboard controls.
+Pc game , uses Keyboard controls.
 
 Couldn't add an instruction page in the game so just mentioning them here:
 
